@@ -19,3 +19,4 @@ nervananeon==2.6.0
 dynet==2.0.2
 -e git+https://github.com/NervanaSystems/ngraph-python.git#egg=ngraph
 tensorflow==1.8.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
