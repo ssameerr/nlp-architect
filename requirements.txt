@@ -13,7 +13,7 @@ falcon
 falcon_multipart
 pillow
 spacy>=2.0
-keras==2.1.5
+keras==3.13.2
 git+https://www.github.com/keras-team/keras-contrib.git#egg=keras-contrib
 nervananeon==2.6.0
 dynet==2.0.2
